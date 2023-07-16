@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eurojackpot-random-number-gen/static/css/main.909c60a6.css",
+    "main.js": "/eurojackpot-random-number-gen/static/js/main.f9714bee.js",
+    "index.html": "/eurojackpot-random-number-gen/index.html",
+    "main.909c60a6.css.map": "/eurojackpot-random-number-gen/static/css/main.909c60a6.css.map",
+    "main.f9714bee.js.map": "/eurojackpot-random-number-gen/static/js/main.f9714bee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.909c60a6.css",
+    "static/js/main.f9714bee.js"
+  ]
+}
